@@ -292,6 +292,6 @@ Este projeto consiste num template HTML de email marketing promocional e comerci
 ---
 
 ## 🛠️ Competências Técnicas Aplicadas nestes Projetos
-- HTML5 Estruturado com Tabelas (`<table>`) para compatibilidade avançada de e-mails[cite: 1].
-- CSS Inline / CSS Responsivo com Media Queries[cite: 1].
-- Suporte e renderização testados em Outlook, Gmail e Apple Mail[cite: 1].
+- HTML5 Estruturado com Tabelas (`<table>`) para compatibilidade avançada de e-mails.
+- CSS Inline / CSS Responsivo com Media Queries.
+- Suporte e renderização testados em Outlook, Gmail e Apple Mail.
